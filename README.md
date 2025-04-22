@@ -23,11 +23,3 @@ Hey there I'm Parth Prasad Awasthi, a Pre-Final year student at USAR, GGSIPU Eas
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Parthawasthi19&icon=6&color=0)](https://visitcount.itsvg.in)
-
-<!-- Sarcastic GIF up top for ✨vibes✨ -->
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRal6Ekf52A/giphy.gif" width="300"/>
-</p>
-### **Enough of reading about me now lets just dance**
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
