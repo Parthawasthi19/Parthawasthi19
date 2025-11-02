@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there I'm Parth Prasad Awasthi, a Pre-Final year student at USAR, GGSIPU East Delhi Campus pursuing Bachelor of Technology in Artificial Intelligence and Machine Learning.<br><br>I love working on technologies, especially AI & ML.<br>Currently working on LLMs and Generative AI.<br><br>I have collaborated on many ML and Webdev projects and willing to do more!<br>
+Hey there I'm Parth Prasad Awasthi, a Final year student at USAR, GGSIPU East Delhi Campus pursuing Bachelor of Technology in Artificial Intelligence and Machine Learning.<br><br>I love working on technologies, especially AI & ML.<br>Currently working on LLMs and Generative AI.<br><br>I have collaborated on many ML and Webdev projects and willing to do more!<br>
 
 
 ## 🌐 Socials:
